@@ -1,0 +1,16 @@
+#profilePicture
+{
+    width: 100%;
+    aspect-ratio: 1;
+
+    margin-top: 1rem;
+
+    background-image: url("../assets/images/perfil.jpg");
+    border-radius: 50%;
+    background-size: cover;
+    background-position: 0% 40%;
+}
+#name
+{
+    text-align: center;
+}
